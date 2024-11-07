@@ -1,0 +1,7 @@
+# Node modules
+saneamento-backend/node_modules/
+saneamento-frontend/node_modules/
+
+# Environment files
+saneamento-backend/.env
+saneamento-frontend/.env
